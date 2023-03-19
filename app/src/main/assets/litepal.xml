@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Circuit" ></dbname>
+
+    <version value="1" ></version>
+    <!--<dbname指定数据库名
+    <version 指定数据库版本号
+     <list>标签用于指定所有的映射模型-->
+    <list>
+        <mapping class="com.example.beijingcustomizedbus.CustomizedCircuit"></mapping>
+
+    </list>
+</litepal>
+
